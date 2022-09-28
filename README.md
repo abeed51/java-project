@@ -1,3 +1,5 @@
+Added the new line from Master branch ----***----
+
 # Sample Java Project
 
 This is a reference for setting up a new Ant-based Java project. It
